@@ -45,11 +45,11 @@ UniManage is a comprehensive University Management System that provides 3-layer 
 
 ## Getting Started
 
-1. Clone the UniManage repository: `git clone https://github.com/your-username/UniManage.git`
-2. Install the required dependencies: `npm install`
+1. Clone the UniManage repository: `https://github.com/mahamodulhasanmoon/UMS_BACKEND.git`
+2. Install the required dependencies: `pnpm install`
 3. Set up the database and configure the connection string.
-4. Start the development server: `npm start`
-5. Access UniManage at `http://localhost:3000` in your web browser.
+4. Start the development server: `pnpm dev`
+5. Access UniManage at `http://localhost:5000` in your web browser.
 
 ## Contributing
 
